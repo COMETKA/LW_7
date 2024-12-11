@@ -12,7 +12,7 @@ int main()
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     int a, b;
-    cout << "\nEnter a: ";
+
     cin >> a;
     cout << "\nEnter b: ";
     cin >> b;
